@@ -1,0 +1,1 @@
+Elizabeth is an author, speaker, mentor, and recovering web developer. She currently works as the Patchwork Community Manager at GitHub, and she’s all about looking at new ways to solve old problems. She lives in Cincinnati, Ohio with her fiancee, their 3 children, and a dog named Raisin.

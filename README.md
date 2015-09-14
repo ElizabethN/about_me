@@ -53,4 +53,4 @@
 
 ## 2015
 
-- The Beauty of a Beginner's Mind, KalamazooX ([slides]())
+- The Beauty of a Beginner's Mind, KalamazooX ([slides](https://www.dropbox.com/home/slides/kalamazoox-animated.m4v))

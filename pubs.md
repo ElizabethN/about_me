@@ -6,9 +6,30 @@ These are my technical, or open source community related publications (blog post
  - [Professional LAMP: Linux, Apache, MySQL, PHP Web Development](http://www.wrox.com/WileyCDA/WroxTitle/Professional-LAMP-Linux-Apache-MySQL-and-PHP5-Web-Development.productCd-076459723X.html) (Wrox/Wiley ©2009)
  
  ## Articles
+  -  _27 Tips for Freelance PHP Coders: Making a Freelance Coding Business Work in the Real World_, International PHP Magazine,  Nov 2005 Cover Story
+  - _Comparing PHP Frameworks_, International PHP Magazine, 
+  - _PHP From the Shop Floor: Bridging Science and Technology_, International PHP Magazine, Jan 2006
+  - _Focus On Functions (I Edition)_, International PHP Magazine, Feb 2006
+  - _PHP From the Shop Floor: Celebrating People Who Can Really Eat and People Who Are Passionate About Beer_, International PHP Magazine, March 2006
+  - _Focus on Functions (II Edition)_, International PHP Magazine, April 2006
+  - _PHP From the Shop Floor: Using PHP & Agile Development for Medical Management Software,_ International PHP Magazine, May 2006
+  - _Review of NuSphere's PhpED 4.5,_ International PHP Magazine, June 2006
+  - _Freelancer's Corner: Gaining New Clients and Keeping the Old Ones_, International PHP Magazine, July 2006
+  - _Freelancer's Corner: Managing Multiple Coding Projects_, International PHP Magazine, Aug 2006
+  - _Freelancer's Corner: Are You Making a Profit in Your Freelance Business?,_ International PHP Magazine, Sept 2006
+  - _Freelancer's Corner: Keeping Yourself on the Cutting Edge Without Falling Off,_ International PHP Magazine, Oct 2006
+  - _Freelancer's Corner: Staying Motivated to Stay Successful_, International PHP Magazine, Nov 2006
+  - _Freelancer's Corner: Tips from the Experts,_ International PHP Magazine, Dec 2006
+  - _The Future of PEAR_, International PHP Magazine, June 2007 Cover Story
+  
+  
+  
+  
+
+
   - [10 Beginner Tips from PHP Masters - Mashable](http://mashable.com/2010/10/21/php-tips-for-beginners/#2DxfGMH7PqqS) (2010, Contributor)
   - [10 Intermediate and Advanced Tips from PHP Masters - Mashable](http://mashable.com/2010/11/03/advanced-php-tips/#xr2niy4K4Oqw) (2010, Contributor)
-  - 
+  - _PHPWomen, 5 Years later_, PHP Architect, Oct 2011
   
   
   
@@ -67,6 +88,7 @@ These are my technical, or open source community related publications (blog post
      - [Interview with Twilio DE Keith Casey](http://webdeveloperrocks.blogspot.com/2012/10/engine-yard-cloud-out-loud-php.html) (2012)
      - [Interview with PHP Internals: Future of PHP](http://webdeveloperrocks.blogspot.com/2012/04/engine-yard-cloud-out-loud-podcast.html) (2012)
      - [Interview with Chris Nelson: QCMerge and Mastering Backbone](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby) (2012)
+     - [Interview with Ed Finkler: MicroPHP Manifesto](http://www.engineyard.co.jp/podcasts/s02e06the-microphp-manifesto) (2012)
    
      
   - Engine Yard's Chicks that Rip:

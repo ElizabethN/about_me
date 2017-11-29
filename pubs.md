@@ -23,28 +23,30 @@ These are my technical, or open source community related publications (blog post
   ## Blog Posts - External Sites
   
    ### Guest Blogger
-    - [Why Writing Code is Like Doing the Dishes: 5 Reasons Why Documenting Your Code Makes You a Better Coder](http://shiflett.org/blog/2007/dec/php-advent-calendar-day-2) (2007)
-  
+   
+   - [Why Writing Code is Like Doing the Dishes: 5 Reasons Why Documenting Your Code Makes You a Better Coder](http://shiflett.org/blog/2007/dec/php-advent-calendar-day-2) (2007)
   
    ### Sourceforge.net (Open Source Outreach/Communmity Manager 2010-2011)
-    - [SF Blog Opens it Up](https://sourceforge.net/blog/the-sf-blog-opens-it-up/) (2010)
-    - [PET Magazine: A Python Magazine By and For the Python Community)[https://sourceforge.net/blog/pet-2/] (2010)
-    - [Getting Help on Sourceforge.net](https://web.archive.org/web/20101112204316/http://sourceforge.net:80/blog/getting-help-on-sourceforgenet/) (2010)
-    - [Open Source Ohio: Bringing FOSS and Business Together](https://web.archive.org/web/20101112204326/http://sourceforge.net:80/blog/open-source-ohio-bringing-foss-and-business-together/) (2010)
-    - [Slackers Unite! GTD-Free is Here!](https://web.archive.org/web/20101112183829/http://sourceforge.net/blog/slackers-unite-gtd-free-is-here/)
-    - [Spotlight on Community: Columbus Ruby Brigade](https://web.archive.org/web/20101204141654/http://sourceforge.net/blog/spotlight-on-community-columbus-ruby-brigade/) (2010)
-    - [pyspread: Parsing Python in Excel](https://web.archive.org/web/20101204141654/http://sourceforge.net/blog/pyspread-parsing-python-in-excel/) (2010)
-    - [Hard Lessons Learned: Malicious Ads on Sourceforge](https://web.archive.org/web/20101204141654/http://sourceforge.net/blog/hard-lessons-learned-malicious-ads-on-sourceforge/) (2010)
-    - [Allowing Your Users to Give Back: Alternatives to PayPal](https://web.archive.org/web/20101210054207/http://sourceforge.net/blog/allowing-your-users-to-give-back-alternatives-to-paypal/) (2010)
-    - [Web2Project: Keeping Your PM Ducks in a Row](https://web.archive.org/web/20101228200747/http://sourceforge.net/blog/web2project/) (2010)
-    - [My Top 5 Open Source Happenings in 2010](https://web.archive.org/web/20110119220447/http://sourceforge.net/blog/my-top-5-2010/) (2011)
-    - [An Open Forge](https://web.archive.org/web/20110320081246/http://sourceforge.net/blog/an-open-forge/) (2011)
-    - [Pinguy OS: A Distro for All](https://web.archive.org/web/20110320081246/http://sourceforge.net/blog/pinguy-os-a-distro-for-all/) (2011)
-    - [XOOPS, There it is! A CMS for the Masses](https://web.archive.org/web/20110320081246/http://sourceforge.net/blog/xoops-there-it-is-a-cms-for-the-masses/) (2011)
-    - [Download Ninja](https://web.archive.org/web/20110308091919/http://sourceforge.net/blog/download-ninja/) (2011)
-    - [Improving Your Project's Visibility](https://sourceforge.net/blog/improving-project-visibility/) (2011)
+   
+   - [SF Blog Opens it Up](https://sourceforge.net/blog/the-sf-blog-opens-it-up/) (2010)
+   - [PET Magazine: A Python Magazine By and For the Python Community)[https://sourceforge.net/blog/pet-2/] (2010)
+   - [Getting Help on Sourceforge.net](https://web.archive.org/web/20101112204316/http://sourceforge.net:80/blog/getting-help-on-sourceforgenet/) (2010)
+   - [Open Source Ohio: Bringing FOSS and Business Together](https://web.archive.org/web/20101112204326/http://sourceforge.net:80/blog/open-source-ohio-bringing-foss-and-business-together/) (2010)
+   - [Slackers Unite! GTD-Free is Here!](https://web.archive.org/web/20101112183829/http://sourceforge.net/blog/slackers-unite-gtd-free-is-here/)
+   - [Spotlight on Community: Columbus Ruby Brigade](https://web.archive.org/web/20101204141654/http://sourceforge.net/blog/spotlight-on-community-columbus-ruby-brigade/) (2010)
+   - [pyspread: Parsing Python in Excel](https://web.archive.org/web/20101204141654/http://sourceforge.net/blog/pyspread-parsing-python-in-excel/) (2010)
+   - [Hard Lessons Learned: Malicious Ads on Sourceforge](https://web.archive.org/web/20101204141654/http://sourceforge.net/blog/hard-lessons-learned-malicious-ads-on-sourceforge/) (2010)
+   - [Allowing Your Users to Give Back: Alternatives to PayPal](https://web.archive.org/web/20101210054207/http://sourceforge.net/blog/allowing-your-users-to-give-back-alternatives-to-paypal/) (2010)
+   - [Web2Project: Keeping Your PM Ducks in a Row](https://web.archive.org/web/20101228200747/http://sourceforge.net/blog/web2project/) (2010)
+   - [My Top 5 Open Source Happenings in 2010](https://web.archive.org/web/20110119220447/http://sourceforge.net/blog/my-top-5-2010/) (2011)
+   - [An Open Forge](https://web.archive.org/web/20110320081246/http://sourceforge.net/blog/an-open-forge/) (2011)
+   - [Pinguy OS: A Distro for All](https://web.archive.org/web/20110320081246/http://sourceforge.net/blog/pinguy-os-a-distro-for-all/) (2011)
+   - [XOOPS, There it is! A CMS for the Masses](https://web.archive.org/web/20110320081246/http://sourceforge.net/blog/xoops-there-it-is-a-cms-for-the-masses/) (2011)
+   - [Download Ninja](https://web.archive.org/web/20110308091919/http://sourceforge.net/blog/download-ninja/) (2011)
+   - [Improving Your Project's Visibility](https://sourceforge.net/blog/improving-project-visibility/) (2011)
 
   ### Engine Yard (PHP Community Manager, 2011-2012)
+  
    - [Changing the World with Open Data](https://www.engineyard.com/blog/changing-the-world-with-open-data) (2011)
    - [Bridging the Gap Between Development and Design](https://www.engineyard.com/blog/bridging-the-gap-between-development-and-design) (2011)
     - [User Group of the Month: Atlanta PHP User Group](https://www.engineyard.com/blog/september-user-group-of-the-month-atlanta-php) (2012)
@@ -57,7 +59,9 @@ These are my technical, or open source community related publications (blog post
    
    
    ## Podcast Host:
-    - Engine Yard's Cloud Out Loud: 
+   
+ 
+ - Engine Yard's Cloud Out Loud: 
      - [Interview with Authors of PHPMasters](https://www.engineyard.com/podcast/s01e51-lorna-mitchell-davey-shafik-matthew-turland?eymkts=blog) (2011)
      - [Interview with Lithium Core Developers: Future of Lithium](https://www.engineyard.com/podcast/future-of-php-lithium) (2011)
      - [Interview with Twilio DE Keith Casey](http://webdeveloperrocks.blogspot.com/2012/10/engine-yard-cloud-out-loud-php.html) (2012)

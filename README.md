@@ -55,3 +55,9 @@
 
 - The Beauty of a Beginner's Mind, KalamazooX ([slides](https://www.dropbox.com/s/zcjhtdl3pjrysb6/kalamazoox-animated.m4v?dl=0))
 - The Neuroscience and Psychology of Open Source Communities, True North PHP ([slides](https://speakerdeck.com/elizabethn/the-neuroscience-and-psychology-of-open-source), [joind.in](https://joind.in/talk/view/15827))
+
+## 2016
+
+ - The Neuroscience and Psychology of Open Source Communities, RubyConf ([video](http://confreaks.tv/presenters/elizabeth-barron))
+ 
+ 

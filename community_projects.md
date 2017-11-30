@@ -2,15 +2,15 @@ These are the open source community projects I've led, or helped organize.
 
 ## Community Conferences/Events
 
- - PHP Appalachia (2006, 2008)
- - PHP Throwdown Code Competition (2007)
+ - PHP Appalachia (2006, 2008) - 100% volunteer driven
+ - PHP Throwdown Code Competition (2007) - 100% volunteer driven
  - php|tek (2008, 2009)
  - CodeWorks (2009 - 7 cities in 14 days)
- - Cincinnati Day of Agile (2010)
- - CodeConnexx (2012)
+ - Cincinnati Day of Agile (2010) - 100% volunteer driven
+ - CodeConnexx (2012) - 100% volunteer driven
  
  ## Community Groups
  
-  - [PHPWomen](phpwomen.org) (Co-Founder, 2006-2013 active leader)
-  - [Ohio, Indiana, Northern Kentucky PHP User Group](http://oink-pug.org) (President, 2007-2009)
+  - [PHPWomen](phpwomen.org) (Co-Founder, 2006-2013 active leader) - 100% volunteer driven
+  - [Ohio, Indiana, Northern Kentucky PHP User Group](http://oink-pug.org) (President, 2007-2009) - 100% volunteer driven
  

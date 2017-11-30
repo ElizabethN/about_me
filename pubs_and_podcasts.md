@@ -51,7 +51,7 @@ These are my technical, or open source community related publications (blog post
    ### Sourceforge.net (Open Source Outreach/Communmity Manager 2010-2011)
    
    - [SF Blog Opens it Up](https://sourceforge.net/blog/the-sf-blog-opens-it-up/) (2010)
-   - [PET Magazine: A Python Magazine By and For the Python Community)[https://sourceforge.net/blog/pet-2/] (2010)
+   - [PET Magazine: A Python Magazine By and For the Python Community](https://sourceforge.net/blog/pet-2/) (2010)
    - [Getting Help on Sourceforge.net](https://web.archive.org/web/20101112204316/http://sourceforge.net:80/blog/getting-help-on-sourceforgenet/) (2010)
    - [Open Source Ohio: Bringing FOSS and Business Together](https://web.archive.org/web/20101112204326/http://sourceforge.net:80/blog/open-source-ohio-bringing-foss-and-business-together/) (2010)
    - [Slackers Unite! GTD-Free is Here!](https://web.archive.org/web/20101112183829/http://sourceforge.net/blog/slackers-unite-gtd-free-is-here/)
@@ -77,10 +77,10 @@ These are my technical, or open source community related publications (blog post
    
 
    
+   ## Podcasts and Panel Discussions
    
    
-   
-   ## Podcast Host:
+   ### Podcast Host:
    
  
  - Engine Yard's Cloud Out Loud: 
@@ -99,7 +99,7 @@ These are my technical, or open source community related publications (blog post
      - [Interview with Elizabeth Smith: PHP Internals](http://www.phpdeveloper.org/news/18258) (2012)
      - [Interview with Laura Thomson: Mozilla](http://www.engineyard.co.jp/podcasts/chicks-that-rip-laura-thomson) (2012)
      
-## Podcast Guest:
+### Podcast Guest:
  - [CodeMash Bull Session](http://webdevradio.com/2008/01/codemash-bull-session-with-ideacore-and-giftsforengineers/) (2008)
  - [PHP Abstract Epsiode 29: PHPWomen](https://player.fm/series/devzone-items-tagged-as-php-abstract/php-abstract-podcast-episode-29-php-women-podcast-recorded-live) (2009)
  - [Dutch PHP User Group Video](https://www.youtube.com/watch?v=37KjuJ-Qsoc) (2011)

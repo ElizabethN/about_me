@@ -1,7 +1,7 @@
 # Talks I've Given
 
 ## 2007
-- PHP and E-Commerce: More than just a shopping cart, ZendCon ([slides](http://naramore.net/slides/ZendCon_07.odp))
+- PHP5 and E-Commerce: More than just a shopping cart, ZendCon ([slides](http://naramore.net/slides/ZendCon_07.odp))
 
 ## 2010
 - Technical Debt, Dutch PHP Conference ([slides](http://naramore.net/slides/DPC10-techdebt.pdf), [joind.in](https://joind.in/talk/view/1536))

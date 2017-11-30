@@ -21,8 +21,8 @@ These are my technical, or open source community related publications (blog post
  - _Freelancer's Corner: Staying Motivated to Stay Successful_, International PHP Magazine, Nov 2006
  - _Freelancer's Corner: Tips from the Experts,_ International PHP Magazine, Dec 2006
  - _The Future of PEAR_, International PHP Magazine, June 2007 Cover Story
- - _[10 Beginner Tips from PHP Masters - Mashable]_(http://mashable.com/2010/10/21/php-tips-for-beginners/#2DxfGMH7PqqS) (2010, Contributor)
- - _[10 Intermediate and Advanced Tips from PHP Masters - Mashable]_(http://mashable.com/2010/11/03/advanced-php-tips/#xr2niy4K4Oqw) (2010, Contributor)
+ - [_10 Beginner Tips from PHP Masters - Mashable_](http://mashable.com/2010/10/21/php-tips-for-beginners/#2DxfGMH7PqqS) (2010, Contributor)
+ - [_10 Intermediate and Advanced Tips from PHP Masters - Mashable_](http://mashable.com/2010/11/03/advanced-php-tips/#xr2niy4K4Oqw) (2010, Contributor)
  - _PHPWomen, 5 Years later_, PHP Architect, Oct 2011
  - _Find Your Inspiration_, PHP Architect, Sept 2012
   

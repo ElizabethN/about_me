@@ -1,4 +1,4 @@
-These are my technical, or open source community related publications (blog posts, articles, books, etc.)
+These are my technical, or open source community related publications (blog posts, articles, books, etc.) and podcasts
 
 ## Books
  - [Beginning PHP5, Apache, MySQL Web Development](http://www.wrox.com/WileyCDA/WroxTitle/Beginning-PHP5-Apache-and-MySQL-Web-Development.productCd-0764557440.html) (Wrox/Wiley, ©2004) - A Wrox Bestseller
@@ -6,30 +6,25 @@ These are my technical, or open source community related publications (blog post
  - [Professional LAMP: Linux, Apache, MySQL, PHP Web Development](http://www.wrox.com/WileyCDA/WroxTitle/Professional-LAMP-Linux-Apache-MySQL-and-PHP5-Web-Development.productCd-076459723X.html) (Wrox/Wiley ©2009)
  
  ## Articles
-  -  _27 Tips for Freelance PHP Coders: Making a Freelance Coding Business Work in the Real World_, International PHP Magazine,  Nov 2005 Cover Story
-  - _Comparing PHP Frameworks_, International PHP Magazine, 
-  - _PHP From the Shop Floor: Bridging Science and Technology_, International PHP Magazine, Jan 2006
-  - _Focus On Functions (I Edition)_, International PHP Magazine, Feb 2006
-  - _PHP From the Shop Floor: Celebrating People Who Can Really Eat and People Who Are Passionate About Beer_, International PHP Magazine, March 2006
-  - _Focus on Functions (II Edition)_, International PHP Magazine, April 2006
-  - _PHP From the Shop Floor: Using PHP & Agile Development for Medical Management Software,_ International PHP Magazine, May 2006
-  - _Review of NuSphere's PhpED 4.5,_ International PHP Magazine, June 2006
-  - _Freelancer's Corner: Gaining New Clients and Keeping the Old Ones_, International PHP Magazine, July 2006
-  - _Freelancer's Corner: Managing Multiple Coding Projects_, International PHP Magazine, Aug 2006
-  - _Freelancer's Corner: Are You Making a Profit in Your Freelance Business?,_ International PHP Magazine, Sept 2006
-  - _Freelancer's Corner: Keeping Yourself on the Cutting Edge Without Falling Off,_ International PHP Magazine, Oct 2006
-  - _Freelancer's Corner: Staying Motivated to Stay Successful_, International PHP Magazine, Nov 2006
-  - _Freelancer's Corner: Tips from the Experts,_ International PHP Magazine, Dec 2006
-  - _The Future of PEAR_, International PHP Magazine, June 2007 Cover Story
-  
-  
-  
-  
-
-
-  - [10 Beginner Tips from PHP Masters - Mashable](http://mashable.com/2010/10/21/php-tips-for-beginners/#2DxfGMH7PqqS) (2010, Contributor)
-  - [10 Intermediate and Advanced Tips from PHP Masters - Mashable](http://mashable.com/2010/11/03/advanced-php-tips/#xr2niy4K4Oqw) (2010, Contributor)
-  - _PHPWomen, 5 Years later_, PHP Architect, Oct 2011
+ -  _27 Tips for Freelance PHP Coders: Making a Freelance Coding Business Work in the Real World_, International PHP Magazine,  Nov 2005 Cover Story
+ - _Comparing PHP Frameworks_, International PHP Magazine, Dec 2005
+ - _PHP From the Shop Floor: Bridging Science and Technology_, International PHP Magazine, Jan 2006
+ - _Focus On Functions (I Edition)_, International PHP Magazine, Feb 2006
+ - _PHP From the Shop Floor: Celebrating People Who Can Really Eat and People Who Are Passionate About Beer_, International PHP Magazine, March 2006
+ - _Focus on Functions (II Edition)_, International PHP Magazine, April 2006
+ - _PHP From the Shop Floor: Using PHP & Agile Development for Medical Management Software,_ International PHP Magazine, May 2006
+ - _Review of NuSphere's PhpED 4.5,_ International PHP Magazine, June 2006
+ - _Freelancer's Corner: Gaining New Clients and Keeping the Old Ones_, International PHP Magazine, July 2006
+ - _Freelancer's Corner: Managing Multiple Coding Projects_, International PHP Magazine, Aug 2006
+ - _Freelancer's Corner: Are You Making a Profit in Your Freelance Business?,_ International PHP Magazine, Sept 2006
+ - _Freelancer's Corner: Keeping Yourself on the Cutting Edge Without Falling Off,_ International PHP Magazine, Oct 2006
+ - _Freelancer's Corner: Staying Motivated to Stay Successful_, International PHP Magazine, Nov 2006
+ - _Freelancer's Corner: Tips from the Experts,_ International PHP Magazine, Dec 2006
+ - _The Future of PEAR_, International PHP Magazine, June 2007 Cover Story
+ - _[10 Beginner Tips from PHP Masters - Mashable]_(http://mashable.com/2010/10/21/php-tips-for-beginners/#2DxfGMH7PqqS) (2010, Contributor)
+ - _[10 Intermediate and Advanced Tips from PHP Masters - Mashable]_(http://mashable.com/2010/11/03/advanced-php-tips/#xr2niy4K4Oqw) (2010, Contributor)
+ - _PHPWomen, 5 Years later_, PHP Architect, Oct 2011
+ - _Find Your Inspiration_, PHP Architect, Sept 2012
   
   
   
@@ -40,12 +35,18 @@ These are my technical, or open source community related publications (blog post
   - [Tending the Gardens of Open Source](http://naramore.net/blog/tending-the-gardens-of-open-source) (2012)
   - [Tech Culture: More LEGOs and Less Punch Buggy](http://naramore.net/blog/tech-culture-more-legos-and-less-punch-buggy)  (topic: open source community and inclusion - 2012)
   - [Uncomfortable](http://naramore.net/blog/uncomfortable) (topic: open source community and inclusion - 2013)
+  - [F@*&%ck Personal Goals and Embrace Your Purple Wedge](https://medium.com/@ElizabethN/f-k-personal-goals-and-instead-embrace-your-purple-wedge-2cfed4e95649) (topic: personal development - 2015)
   
   ## Blog Posts - External Sites
   
    ### Guest Blogger
    
-   - [Why Writing Code is Like Doing the Dishes: 5 Reasons Why Documenting Your Code Makes You a Better Coder](http://shiflett.org/blog/2007/dec/php-advent-calendar-day-2) (2007)
+ 
+  - [Why Writing Code is Like Doing the Dishes: 5 Reasons Why Documenting Your Code Makes You a Better Coder](http://shiflett.org/blog/2007/dec/php-advent-calendar-day-2) (2007)
+  - [Why Using PHP Makes You Cooler](http://webadvent.org/2008/why-using-php-makes-you-cooler-by-elizabeth-naramore.html) (2008)
+  - [Twilio in Two Minutes](http://webadvent.org/2011/twilio-in-two-minutes-by-elizabeth-naramore.html) (2011)
+  - [Ripples on the Pond: The Quiet Revolution](https://the-pastry-box-project.net/elizabeth-naramore/2014-november-4) (2014)
+  - [Manage Your Energy to Manage Your Time](https://superyesmore.com/manage-your-energy-to-manage-your-time-b5b63da4644b04550c3ecf9c29ce65f8) (2017)
   
    ### Sourceforge.net (Open Source Outreach/Communmity Manager 2010-2011)
    

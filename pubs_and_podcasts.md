@@ -28,7 +28,9 @@ These are my technical, or open source community related publications (blog post
   
   
   
-  ## Blog Posts - Personal Blog
+  ## Blog Posts 
+  
+  ### Personal Blog
   - [Gender in IT, OSS, and PHP and How it Affects Us *All*](http://naramore.net/blog/tag/gender-issues)  (2009)
   - [Growing Online Communities, Naturally](http://naramore.net/blog/growing-online-communities-naturally)  (2009)
   - [Why People Don't Contribute to Open Source Projects and What We Can Do About It](http://naramore.net/blog/why-people-don-t-contribute-to-os-projects-and-what-we-can-do-about-it) (2010)
@@ -37,9 +39,7 @@ These are my technical, or open source community related publications (blog post
   - [Uncomfortable](http://naramore.net/blog/uncomfortable) (topic: open source community and inclusion - 2013)
   - [F@*&%ck Personal Goals and Embrace Your Purple Wedge](https://medium.com/@ElizabethN/f-k-personal-goals-and-instead-embrace-your-purple-wedge-2cfed4e95649) (topic: personal development - 2015)
   
-  ## Blog Posts - External Sites
-  
-   ### Guest Blogger
+  ### Guest Blogger
    
  
   - [Why Writing Code is Like Doing the Dishes: 5 Reasons Why Documenting Your Code Makes You a Better Coder](http://shiflett.org/blog/2007/dec/php-advent-calendar-day-2) (2007)
@@ -108,5 +108,7 @@ These are my technical, or open source community related publications (blog post
  - [Voices of the ElePHPant: Interview with Elizabeth Naramore](https://voicesoftheelephpant.com/2011/08/02/interview-with-elizabeth-naramore/) (2011)
  - [Engine Yard Interview with Paul Reinheimer](https://www.engineyard.co.jp/podcasts/s01e49-chicks-that-rip-elizabeth-naramore)
  - [Twilio Blog: DOers in Action: Elizabeth Naramore](https://www.twilio.com/blog/2012/06/doers-in-action-elizabeth-naramore-talks-life-at-engine-yard-and-the-php-community.html) (2012)
+ - [Cincinnati Women in Tech Panel (video)](https://www.youtube.com/watch?v=oIsD_0tOSG0) (2015)
+ - [Cincinnati Design Week: Tech Leaders Panel Discussion](https://www.meetup.com/Girl-Develop-It-Cincinnati/events/225396476/?_cookie-check=DStjci1fytNuUER-)
  - [dev/hell Episode 69: A Festivus Miracle 2](https://programmingpodcasts.com/episode/devhell/episode-69-a-festivus-miracle-part-2) (2016)
  

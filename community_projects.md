@@ -8,6 +8,7 @@ These are the open source community projects I've led, or helped organize.
  - CodeWorks (2009 - 7 cities in 14 days)
  - Cincinnati Day of Agile (2010) - 100% volunteer driven
  - CodeConnexx (2012) - 100% volunteer driven
+ - GitHub's [Patchwork](https://patchwork.github.io) events (2014-2017) - over 100 day long workshops, all over the world
  
  ## Community Groups
  

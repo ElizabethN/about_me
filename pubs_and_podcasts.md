@@ -50,7 +50,7 @@ These are my technical, or open source community related publications (blog post
   - [Manage Your Energy to Manage Your Time](https://superyesmore.com/manage-your-energy-to-manage-your-time-b5b63da4644b04550c3ecf9c29ce65f8) (2017)
  
   
-   ### Sourceforge.net (Open Source Outreach/Communmity Manager 2010-2011)
+   ### Sourceforge.net (Open Source Outreach/Community Manager 2010-2011)
    
    - [SF Blog Opens it Up](https://sourceforge.net/blog/the-sf-blog-opens-it-up/) (2010)
    - [PET Magazine: A Python Magazine By and For the Python Community](https://sourceforge.net/blog/pet-2/) (2010)

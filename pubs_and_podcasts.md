@@ -46,7 +46,9 @@ These are my technical, or open source community related publications (blog post
   - [Why Using PHP Makes You Cooler](http://webadvent.org/2008/why-using-php-makes-you-cooler-by-elizabeth-naramore.html) (2008)
   - [Twilio in Two Minutes](http://webadvent.org/2011/twilio-in-two-minutes-by-elizabeth-naramore.html) (2011)
   - [Ripples on the Pond: The Quiet Revolution](https://the-pastry-box-project.net/elizabeth-naramore/2014-november-4) (2014)
+  - [For Code2040: Git and GitHub: What's the Big Deal? Part 1](https://medium.com/@Code2040/git-and-github-what-s-the-big-deal-e476300649fd) and [Part 2](https://medium.com/@Code2040/part-2-git-and-github-whats-the-big-deal-7cd97d91b3c9) (2016)
   - [Manage Your Energy to Manage Your Time](https://superyesmore.com/manage-your-energy-to-manage-your-time-b5b63da4644b04550c3ecf9c29ce65f8) (2017)
+ 
   
    ### Sourceforge.net (Open Source Outreach/Communmity Manager 2010-2011)
    

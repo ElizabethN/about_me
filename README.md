@@ -8,6 +8,6 @@ I am a motivated, high performing, enthusiastic, and collaborative tech leader w
 - [Publications and Podcasts](https://github.com/ElizabethN/about_me/blob/master/pubs_and_podcasts.md)
 - [Community Projects and Events](https://github.com/ElizabethN/about_me/blob/master/community_projects.md)
 
-In my free time, I enjoy writing science fiction novels, and nature photography (and I post a nature photo a day to the 'grams.)
-- [Sci-Fi Author Site](http://elizabeth-barron.com/)
-- [Nature Photograph on Instagram](https://www.instagram.com/elizabethnphoto/)
+In my free time, I am a professional nature and botanical photographer:
+- [Elizabeth Barron Botanical Photography](http://elizabeth-barron.com/)
+- [Nature Photographs on Instagram](https://www.instagram.com/elizabethnphoto/)

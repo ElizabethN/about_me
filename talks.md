@@ -59,5 +59,9 @@
 ## 2016
 
  - The Neuroscience and Psychology of Open Source Communities, RubyConf ([video](http://confreaks.tv/presenters/elizabeth-barron))
+
+## 2021
+
+ - Why We Join and Why We Leave Open Source Communities, CHAOSScon ([video](https://www.youtube.com/watch?v=pP_l2maDy9A)) 
  
  

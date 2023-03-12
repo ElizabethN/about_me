@@ -1,4 +1,4 @@
-These are my technical, or open source community related publications (blog posts, articles, books, etc.) and podcasts
+These are my technical, or open source community related publications (blog posts, articles, books, etc.) and podcasts. (I have also written 2 fiction novels which can be found [here.](https://www.amazon.com/s?k=elizabeth+naramore+barron&i=stripbooks&crid=38OYEXENNEZPD&sprefix=elizabeth+naramore+barron%2Cstripbooks%2C189&ref=nb_sb_noss))
 
 ## Technical Books
  - [Beginning PHP5, Apache, MySQL Web Development](http://www.wrox.com/WileyCDA/WroxTitle/Beginning-PHP5-Apache-and-MySQL-Web-Development.productCd-0764557440.html) (Wrox/Wiley, ©2004) - A Wrox Bestseller

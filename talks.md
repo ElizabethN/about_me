@@ -63,5 +63,9 @@
 ## 2021
 
  - Why We Join and Why We Leave Open Source Communities, CHAOSScon ([video](https://www.youtube.com/watch?v=pP_l2maDy9A)) 
+
+## 2022
+
+ - Practical Strategies for Centering DEI in your Open Source Event, OSSNA
  
  

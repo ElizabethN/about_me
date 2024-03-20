@@ -1,4 +1,4 @@
-These are the open source community projects I've led, or helped organize.
+These are the open source community projects I've led or helped organize.
 
 ## Community Conferences/Events
 
@@ -9,7 +9,7 @@ These are the open source community projects I've led, or helped organize.
  - Cincinnati Day of Agile (2010) - 100% volunteer driven
  - CodeConnexx (2012) - 100% volunteer driven
  - GitHub's [Patchwork](https://patchwork.github.io) events (2014-2017) - over 100 day long workshops, all over the world
- - CHAOSScon (2021)
+ - CHAOSScon (2021, 2022, 2023, 2024)
  
  ## Community Groups
  

@@ -67,5 +67,8 @@
 ## 2022
 
  - Practical Strategies for Centering DEI in your Open Source Event, OSSNA
+
+## 2023
+ - Keynote: Paving the Way for Contributions of All Types, Umbraco Developers Conference
  
  

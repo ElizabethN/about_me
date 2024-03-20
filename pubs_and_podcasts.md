@@ -92,6 +92,8 @@ These are my technical, or open source community related publications (blog post
   - [Episode 49: CHAOSS Community Year 2021 in Review](https://podcast.chaoss.community/49) (2021)
   - [Episode 54: CHAOSS DEI Reflection Project](https://podcast.chaoss.community/54) (2022)
   - [Episode 67: The CHAOSS Newcomer Slack Bot and She-Code-Africa with Precious and Iyimide](https://podcast.chaoss.community/67) (2022)
+  - [Episode 71: What's New in the CHAOSS Community](https://podcast.chaoss.community/71) (2023)
+  - [Episode 76: CHAOSS Goals for 2024 and Beyond](https://podcast.chaoss.community/76) (2023)
  
  #### Engine Yard's Cloud Out Loud: 
    - [Interview with Authors of PHPMasters](https://www.engineyard.com/podcast/s01e51-lorna-mitchell-davey-shafik-matthew-turland?eymkts=blog) (2011)

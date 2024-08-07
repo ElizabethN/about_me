@@ -1,11 +1,57 @@
-These are my technical, or open source community related publications (blog posts, articles, books, etc.) and podcasts. (I have also written 2 fiction novels which can be found [here.](https://www.amazon.com/s?k=elizabeth+naramore+barron&i=stripbooks&crid=38OYEXENNEZPD&sprefix=elizabeth+naramore+barron%2Cstripbooks%2C189&ref=nb_sb_noss))
+These are my technical, or open source community-related publications (blog posts, articles, books, etc.) and podcasts. (I have also written 2 fiction novels which can be found [here.](https://www.amazon.com/s?k=elizabeth+naramore+barron&i=stripbooks&crid=38OYEXENNEZPD&sprefix=elizabeth+naramore+barron%2Cstripbooks%2C189&ref=nb_sb_noss))
 
-## Technical Books
+## Podcasts and Panel Discussions   
+  
+### Podcast Host or Panelist:
+   
+ #### CHAOSScast (2021-Present):
+  - [Episode 34: Anniversary Episode with Georg, Dawn, Matt, Sophia, Elizabeth](https://podcast.chaoss.community/34) (2021)
+  - [Episode 38: Co.Lab and Increasing Diversity in STEM with Ruth Suehle](https://podcast.chaoss.community/38) (2021)
+  - [Episode 49: CHAOSS Community Year 2021 in Review](https://podcast.chaoss.community/49) (2021)
+  - [Episode 54: CHAOSS DEI Reflection Project](https://podcast.chaoss.community/54) (2022)
+  - [Episode 67: The CHAOSS Newcomer Slack Bot and She-Code-Africa with Precious and Iyimide](https://podcast.chaoss.community/67) (2022)
+  - [Episode 71: What's New in the CHAOSS Community](https://podcast.chaoss.community/71) (2023)
+  - [Episode 76: CHAOSS Goals for 2024 and Beyond](https://podcast.chaoss.community/76) (2023)
+  - [Episode 87: Celebrating 2 Years of CHAOSS Africa](https://podcast.chaoss.community/87) (2024)
+  - [Episode 88: Practitioner Guides: Contributor Sustainability](https://podcast.chaoss.community/88) (2024)
+  - [Episode 89: Practitioner Guides: Organizational Participation](https://podcast.chaoss.community/88) (2024)
+ 
+ #### Engine Yard's Cloud Out Loud (2011-2012): 
+   - [Interview with Authors of PHPMasters](https://www.engineyard.com/podcast/s01e51-lorna-mitchell-davey-shafik-matthew-turland?eymkts=blog) (2011)
+   - [Interview with Lithium Core Developers: Future of Lithium](https://www.engineyard.com/podcast/future-of-php-lithium) (2011)
+   - [Interview with Twilio DE Keith Casey](http://webdeveloperrocks.blogspot.com/2012/10/engine-yard-cloud-out-loud-php.html) (2012)
+   - [Interview with PHP Internals: Future of PHP](http://webdeveloperrocks.blogspot.com/2012/04/engine-yard-cloud-out-loud-podcast.html) (2012)
+   - [Interview with Chris Nelson: QCMerge and Mastering Backbone](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby) (2012)
+   - [Interview with Ed Finkler: MicroPHP Manifesto](http://www.engineyard.co.jp/podcasts/s02e06the-microphp-manifesto) (2012)
+
+
+  #### Engine Yard's Chicks that Rip (2012):
+  
+   - [Interview with Jan Lenhardt & Tiffany Conroy: We Are All Awesome](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby) (2012)
+   - [Interview with Kami Lott: GitHub Community Manager](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby?page=2) (2012)
+   - [Interview with Jen Myers: Girl Develop It](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby?page=2) (2012)
+   - [Interview with Elizabeth Smith: PHP Internals](http://www.phpdeveloper.org/news/18258) (2012)
+   - [Interview with Laura Thomson: Mozilla](http://www.engineyard.co.jp/podcasts/chicks-that-rip-laura-thomson) (2012)
+     
+### Podcast Guest (2008-2016):
+ - [CodeMash Bull Session](http://webdevradio.com/2008/01/codemash-bull-session-with-ideacore-and-giftsforengineers/) (2008)
+ - [PHP Abstract Epsiode 29: PHPWomen](https://player.fm/series/devzone-items-tagged-as-php-abstract/php-abstract-podcast-episode-29-php-women-podcast-recorded-live) (2009)
+ - [Dutch PHP User Group Video](https://www.youtube.com/watch?v=37KjuJ-Qsoc) (2011)
+ - [Lococast.net, Episode 21: OLF Recap](http://lococast.net/archives/535) (2011)
+ - [dev/hell Episode 21: Grace Hopper](http://devhell.info/post/2012-10-06/the-grace-hopper-rape-whistle/) (2012)
+ - [Voices of the ElePHPant: Interview with Elizabeth Naramore](https://voicesoftheelephpant.com/2011/08/02/interview-with-elizabeth-naramore/) (2011)
+ - [Engine Yard Interview with Paul Reinheimer](https://www.engineyard.co.jp/podcasts/s01e49-chicks-that-rip-elizabeth-naramore)
+ - [Twilio Blog: DOers in Action: Elizabeth Naramore](https://www.twilio.com/blog/2012/06/doers-in-action-elizabeth-naramore-talks-life-at-engine-yard-and-the-php-community.html) (2012)
+ - [Cincinnati Women in Tech Panel (video)](https://www.youtube.com/watch?v=oIsD_0tOSG0) (2015)
+ - [Cincinnati Design Week: Tech Leaders Panel Discussion](https://www.meetup.com/Girl-Develop-It-Cincinnati/events/225396476/?_cookie-check=DStjci1fytNuUER-)
+ - [dev/hell Episode 69: A Festivus Miracle 2](https://programmingpodcasts.com/episode/devhell/episode-69-a-festivus-miracle-part-2) (2016)
+
+## Technical Books (2004-2009)
  - [Beginning PHP5, Apache, MySQL Web Development](http://www.wrox.com/WileyCDA/WroxTitle/Beginning-PHP5-Apache-and-MySQL-Web-Development.productCd-0764557440.html) (Wrox/Wiley, ©2004) - A Wrox Bestseller
  - [Beginning PHP5, Apache, MySQL Web Development 2nd Edition](https://www.amazon.com/Beginning-PHP5-Apache-MySQL-Development/dp/0764579665/ref=sr_1_3?ie=UTF8&qid=1511966580&sr=8-3) (Wrox/Wiley ©2005) - A Wrox Bestseller
  - [Professional LAMP: Linux, Apache, MySQL, PHP Web Development](http://www.wrox.com/WileyCDA/WroxTitle/Professional-LAMP-Linux-Apache-MySQL-and-PHP5-Web-Development.productCd-076459723X.html) (Wrox/Wiley ©2009)
 
-## Technical Ghost Writing & Training
+## Technical Ghost Writing & Training (2021-2022)
 
 - Ghost Writing for a client (2022)
 - Educational Series of Videos for a client (2022)
@@ -13,7 +59,7 @@ These are my technical, or open source community related publications (blog post
   
 ## Blog Posts 
   
-  ### Personal Blog
+  ### Personal Blog (2009-2015)
   - [Gender in IT, OSS, and PHP and How it Affects Us *All*](http://naramore.net/blog/tag/gender-issues)  (2009)
   - [Growing Online Communities, Naturally](http://naramore.net/blog/growing-online-communities-naturally)  (2009)
   - [Why People Don't Contribute to Open Source Projects and What We Can Do About It](http://naramore.net/blog/why-people-don-t-contribute-to-os-projects-and-what-we-can-do-about-it) (2010)
@@ -22,7 +68,7 @@ These are my technical, or open source community related publications (blog post
   - [Uncomfortable](http://naramore.net/blog/uncomfortable) (topic: open source community and inclusion - 2013)
   - [F@*&%ck Personal Goals and Embrace Your Purple Wedge](https://medium.com/@ElizabethN/f-k-personal-goals-and-instead-embrace-your-purple-wedge-2cfed4e95649) (topic: personal development - 2015)
   
-  ### Guest Blogger
+  ### Guest Blogger (2007-2017)
     
   - [Why Writing Code is Like Doing the Dishes: 5 Reasons Why Documenting Your Code Makes You a Better Coder](http://shiflett.org/blog/2007/dec/php-advent-calendar-day-2) (2007)
   - [Why Using PHP Makes You Cooler](http://webadvent.org/2008/why-using-php-makes-you-cooler-by-elizabeth-naramore.html) (2008)
@@ -81,47 +127,5 @@ These are my technical, or open source community related publications (blog post
  - _PHPWomen, 5 Years later_, PHP Architect, Oct 2011
  - _Find Your Inspiration_, PHP Architect, Sept 2012
    
-## Podcasts and Panel Discussions
-   
-   
-### Podcast Host:
-   
- #### CHAOSScast:
-  - [Episode 34: Anniversary Episode with Georg, Dawn, Matt, Sophia, Elizabeth](https://podcast.chaoss.community/34) (2021)
-  - [Episode 38: Co.Lab and Increasing Diversity in STEM with Ruth Suehle](https://podcast.chaoss.community/38) (2021)
-  - [Episode 49: CHAOSS Community Year 2021 in Review](https://podcast.chaoss.community/49) (2021)
-  - [Episode 54: CHAOSS DEI Reflection Project](https://podcast.chaoss.community/54) (2022)
-  - [Episode 67: The CHAOSS Newcomer Slack Bot and She-Code-Africa with Precious and Iyimide](https://podcast.chaoss.community/67) (2022)
-  - [Episode 71: What's New in the CHAOSS Community](https://podcast.chaoss.community/71) (2023)
-  - [Episode 76: CHAOSS Goals for 2024 and Beyond](https://podcast.chaoss.community/76) (2023)
- 
- #### Engine Yard's Cloud Out Loud: 
-   - [Interview with Authors of PHPMasters](https://www.engineyard.com/podcast/s01e51-lorna-mitchell-davey-shafik-matthew-turland?eymkts=blog) (2011)
-   - [Interview with Lithium Core Developers: Future of Lithium](https://www.engineyard.com/podcast/future-of-php-lithium) (2011)
-   - [Interview with Twilio DE Keith Casey](http://webdeveloperrocks.blogspot.com/2012/10/engine-yard-cloud-out-loud-php.html) (2012)
-   - [Interview with PHP Internals: Future of PHP](http://webdeveloperrocks.blogspot.com/2012/04/engine-yard-cloud-out-loud-podcast.html) (2012)
-   - [Interview with Chris Nelson: QCMerge and Mastering Backbone](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby) (2012)
-   - [Interview with Ed Finkler: MicroPHP Manifesto](http://www.engineyard.co.jp/podcasts/s02e06the-microphp-manifesto) (2012)
 
-
-  #### Engine Yard's Chicks that Rip:
-  
-   - [Interview with Jan Lenhardt & Tiffany Conroy: We Are All Awesome](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby) (2012)
-   - [Interview with Kami Lott: GitHub Community Manager](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby?page=2) (2012)
-   - [Interview with Jen Myers: Girl Develop It](http://www.digitalpodcast.com/feeds/46790-cloud-out-loud-ruby?page=2) (2012)
-   - [Interview with Elizabeth Smith: PHP Internals](http://www.phpdeveloper.org/news/18258) (2012)
-   - [Interview with Laura Thomson: Mozilla](http://www.engineyard.co.jp/podcasts/chicks-that-rip-laura-thomson) (2012)
-     
-### Podcast Guest:
- - [CodeMash Bull Session](http://webdevradio.com/2008/01/codemash-bull-session-with-ideacore-and-giftsforengineers/) (2008)
- - [PHP Abstract Epsiode 29: PHPWomen](https://player.fm/series/devzone-items-tagged-as-php-abstract/php-abstract-podcast-episode-29-php-women-podcast-recorded-live) (2009)
- - [Dutch PHP User Group Video](https://www.youtube.com/watch?v=37KjuJ-Qsoc) (2011)
- - [Lococast.net, Episode 21: OLF Recap](http://lococast.net/archives/535) (2011)
- - [dev/hell Episode 21: Grace Hopper](http://devhell.info/post/2012-10-06/the-grace-hopper-rape-whistle/) (2012)
- - [Voices of the ElePHPant: Interview with Elizabeth Naramore](https://voicesoftheelephpant.com/2011/08/02/interview-with-elizabeth-naramore/) (2011)
- - [Engine Yard Interview with Paul Reinheimer](https://www.engineyard.co.jp/podcasts/s01e49-chicks-that-rip-elizabeth-naramore)
- - [Twilio Blog: DOers in Action: Elizabeth Naramore](https://www.twilio.com/blog/2012/06/doers-in-action-elizabeth-naramore-talks-life-at-engine-yard-and-the-php-community.html) (2012)
- - [Cincinnati Women in Tech Panel (video)](https://www.youtube.com/watch?v=oIsD_0tOSG0) (2015)
- - [Cincinnati Design Week: Tech Leaders Panel Discussion](https://www.meetup.com/Girl-Develop-It-Cincinnati/events/225396476/?_cookie-check=DStjci1fytNuUER-)
- - [dev/hell Episode 69: A Festivus Miracle 2](https://programmingpodcasts.com/episode/devhell/episode-69-a-festivus-miracle-part-2) (2016)
  

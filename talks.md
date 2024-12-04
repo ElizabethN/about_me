@@ -1,7 +1,9 @@
 # Talks I've Given
 
 ## 2024
+- Paving the Way for Contributions of All Types, All Things Open Diversity and Inclusion Day ([Video](https://www.youtube.com/watch?v=nVvxMvlZKWc)
 - DEI Project Badging Panel Discussion, OSSNA ([Abstract and Video](https://ossna2024.sched.com/event/1aBPV/panel-discussion-chaoss-dei-project-badging-matt-germonprez-chaoss-university-of-nebraska-at-omaha-elizabeth-barron-eb-technical-consulting-llc-enock-kasaadha-chaoss-emilio-salvador-gitlab-sarah-oyetubo-github))
+  
 ## 2023
  - Keynote: Paving the Way for Contributions of All Types, Umbraco Developers Conference
  - Onboarding Newcomers: More than just CONTRIBUTING.md, FOSSY ([Abstract](https://2023.fossy.us/schedule/presentation/56/index.html))

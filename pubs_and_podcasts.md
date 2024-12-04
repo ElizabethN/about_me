@@ -1,8 +1,11 @@
-These are my technical, or open source community-related publications (blog posts, articles, books, etc.) and podcasts. (I have also written 2 fiction novels which can be found [here.](https://www.amazon.com/s?k=elizabeth+naramore+barron&i=stripbooks&crid=38OYEXENNEZPD&sprefix=elizabeth+naramore+barron%2Cstripbooks%2C189&ref=nb_sb_noss))
+These are my technical or open source community-related publications (blog posts, articles, books, etc.) and podcasts from 2004 to today.
 
-## Podcasts and Panel Discussions   
-  
-### Podcast Host or Panelist:
+## 2020-Present
+
+### Podcasts
+
+#### Guest Podcasts:
+ - [Sustain OSS Episode 243: CHAOSS Practitioner Guides](https://podcast.sustainoss.org/243) (2024)
    
  #### CHAOSScast (2021-Present):
   - [Episode 34: Anniversary Episode with Georg, Dawn, Matt, Sophia, Elizabeth](https://podcast.chaoss.community/34) (2021)
@@ -15,6 +18,26 @@ These are my technical, or open source community-related publications (blog post
   - [Episode 87: Celebrating 2 Years of CHAOSS Africa](https://podcast.chaoss.community/87) (2024)
   - [Episode 88: Practitioner Guides: Contributor Sustainability](https://podcast.chaoss.community/88) (2024)
   - [Episode 89: Practitioner Guides: Organizational Participation](https://podcast.chaoss.community/88) (2024)
+  - [Episode 98: Community Building: The Role of Culture in Open Source Communities](https://podcast.chaoss.community/98) (2024)
+
+### Writing
+
+#### Technical Ghost Writing & Training (2021-2022)
+
+- Ghost Writing for a client (2022)
+- Educational Series on Technical Writing for a client (2022)
+- Ghost Writing for SteadyContent (2020, 2021)
+
+#### Blog Posts 
+
+- ["Don't forget the why when building inclusive and sustainable open source communities"](https://www.linkedin.com/pulse/dont-forget-why-building-inclusive-open-source-elizabeth-barron-rafhe/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BTASf0yIeRPKFTRLGnrBK0w%3D%3D) (2024)
+- ["Community Managers are the unsung heroes that fit in everywhere and nowhere"](https://www.linkedin.com/pulse/community-managers-unsung-heroes-fit-everywhere-nowhere-barron-mfpvc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BTASf0yIeRPKFTRLGnrBK0w%3D%3D) (2024)
+- ["Building a community management team: Where should you start?"](https://www.linkedin.com/pulse/building-community-management-team-where-should-you-start-barron-euxhc/?lipi=urn%3Ali%3Apage%3Ad_flagship3_publishing_published%3BTASf0yIeRPKFTRLGnrBK0w%3D%3D) (2024)
+
+
+## 2006-2020
+
+### Podcasts and Panel Discussions
  
  #### Engine Yard's Cloud Out Loud (2011-2012): 
    - [Interview with Authors of PHPMasters](https://www.engineyard.com/podcast/s01e51-lorna-mitchell-davey-shafik-matthew-turland?eymkts=blog) (2011)
@@ -51,11 +74,7 @@ These are my technical, or open source community-related publications (blog post
  - [Beginning PHP5, Apache, MySQL Web Development 2nd Edition](https://www.amazon.com/Beginning-PHP5-Apache-MySQL-Development/dp/0764579665/ref=sr_1_3?ie=UTF8&qid=1511966580&sr=8-3) (Wrox/Wiley ©2005) - A Wrox Bestseller
  - [Professional LAMP: Linux, Apache, MySQL, PHP Web Development](http://www.wrox.com/WileyCDA/WroxTitle/Professional-LAMP-Linux-Apache-MySQL-and-PHP5-Web-Development.productCd-076459723X.html) (Wrox/Wiley ©2009)
 
-## Technical Ghost Writing & Training (2021-2022)
 
-- Ghost Writing for a client (2022)
-- Educational Series of Videos for a client (2022)
-- Ghost Writing for SteadyContent (2020, 2021)
   
 ## Blog Posts 
   

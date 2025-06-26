@@ -1,5 +1,8 @@
 # Talks I've Given
 
+## 2025
+ - The Work No One Notices Until It's Missing: Scaling Open Source Community Teams, OSSNA ([Slides])
+
 ## 2024
 - Paving the Way for Contributions of All Types, All Things Open Diversity and Inclusion Day ([Video](https://www.youtube.com/watch?v=nVvxMvlZKWc)
 - DEI Project Badging Panel Discussion, OSSNA ([Abstract and Video](https://ossna2024.sched.com/event/1aBPV/panel-discussion-chaoss-dei-project-badging-matt-germonprez-chaoss-university-of-nebraska-at-omaha-elizabeth-barron-eb-technical-consulting-llc-enock-kasaadha-chaoss-emilio-salvador-gitlab-sarah-oyetubo-github))
